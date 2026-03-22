@@ -3,3 +3,6 @@ __pycache__/
 .env
 *.pyc
 feedback.json
+
+data/*.csv
+data/*.json
